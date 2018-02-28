@@ -1,0 +1,19 @@
+h6 {
+  font-weight:400;
+}
+
+label {
+  font-weight: 300;
+}
+
+.centered {
+  text-align:center;
+}
+
+.right {
+  text-align:right;
+}
+
+.underline {
+  text-decoration:underline;
+}
